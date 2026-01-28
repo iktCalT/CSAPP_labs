@@ -1,0 +1,20 @@
+# --- datalab bins ---
+bits
+btest
+fshow
+ishow
+dlc
+btest.c
+
+# --- Others ---
+*.o
+*.s
+objdump.txt
+disassembly.S
+
+*.out
+*.log
+*.tar
+
+.vscode/
+*.swp
