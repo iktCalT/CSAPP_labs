@@ -3,8 +3,6 @@ bits
 btest
 fshow
 ishow
-dlc
-btest.c
 
 # --- Others ---
 *.o
@@ -18,3 +16,4 @@ disassembly.S
 
 .vscode/
 *.swp
+*.Identifier
